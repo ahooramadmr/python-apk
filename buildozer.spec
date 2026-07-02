@@ -131,7 +131,7 @@ android.ndk_api = 21
 
 # (str) ANT directory (if empty, it will be automatically downloaded.)
 #android.ant_path =
-
+android.archs = arm64-v8a
 # (bool) If True, then skip trying to update the Android SDK
 # This can be useful to avoid excess Internet downloads or save time
 # when an update is due and you just want to test/build your package
